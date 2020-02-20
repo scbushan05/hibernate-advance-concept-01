@@ -10,6 +10,7 @@ import org.hibernate.cfg.Configuration;
 import in.bushansirgur.hibernate.model.EmployeeModel;
 /**
  * This is the main class
+ * @author Bushan
  * */
 public class ElementCollectionDemo {
 	

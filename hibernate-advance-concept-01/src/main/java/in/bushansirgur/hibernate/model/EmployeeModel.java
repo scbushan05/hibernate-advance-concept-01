@@ -14,6 +14,7 @@ import javax.persistence.Table;
 /**
  * 
  * This class represents the model class for employee object
+ * @author Bushan
  * */
 @Entity
 @Table(name="employee")
