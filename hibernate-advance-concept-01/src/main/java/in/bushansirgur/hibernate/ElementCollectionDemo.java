@@ -8,7 +8,9 @@ import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
 import in.bushansirgur.hibernate.model.EmployeeModel;
-
+/**
+ * This is the main class
+ * */
 public class ElementCollectionDemo {
 	
 	public static void main(String[] args) {

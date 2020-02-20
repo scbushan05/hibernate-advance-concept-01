@@ -1,6 +1,5 @@
 package in.bushansirgur.hibernate.model;
 
-import java.util.HashSet;
 import java.util.Set;
 
 import javax.persistence.CollectionTable;
@@ -12,7 +11,10 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.Table;
-
+/**
+ * 
+ * This class represents the model class for employee object
+ * */
 @Entity
 @Table(name="employee")
 public class EmployeeModel {
